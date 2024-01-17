@@ -1,0 +1,2 @@
+class FileLoadError(ValueError):
+    pass
